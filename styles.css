@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  background-image: url("https://raw.githubusercontent.com/defyspace/websitemelon/main/images/bg_main.png");
+        background-repeat: repeat-y;
   background: orange;
   text-align: center;
 }
