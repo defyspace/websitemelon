@@ -1,6 +1,5 @@
 body {
-  <margin: 0;
-  background-image: image(bg_main);
-  img src="https://defyspace.github.io/websitemelon/images/bg_main.png" alt="bg_main"
-  text-align: center;>
+  margin: 0;
+  background: orange;
+  text-align: center;
 }
